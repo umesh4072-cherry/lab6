@@ -1,1 +1,3 @@
 add some features for git
+
+adding the fatures
